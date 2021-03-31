@@ -1,1 +1,3 @@
-# dojo-styles
+# Dojo Styles 
+
+The external styles of Dojo Application
